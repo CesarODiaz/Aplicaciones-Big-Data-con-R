@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581777070246.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1508278213",
+    "id" : "79822820",
+    "lastKnownWriteTime" : 1581804169,
+    "last_content_update" : 1581804169242,
+    "path" : "~/R/BSGroup/Desarrollo de Aplicaciones Big Data con R/1Clase.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "12,66",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

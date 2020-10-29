@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603943814511.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1221192648",
+    "id" : "50A542A6",
+    "lastKnownWriteTime" : 1603943964,
+    "last_content_update" : 1603943964696,
+    "path" : "D:/Portatil-Maribel-26022020/R/BSGroup/Desarrollo de Aplicaciones Big Data con R/Aplicaciones Big Data con R/PrimerPrograma.R",
+    "project_path" : "PrimerPrograma.R",
+    "properties" : {
+        "cursorPosition" : "258,0",
+        "scrollLine" : "244",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

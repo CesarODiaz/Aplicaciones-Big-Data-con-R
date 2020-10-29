@@ -1,0 +1,13 @@
+### Primer Programa en R
+3 * 2
+a <- c(1,2,3)
+s[10] <- 1
+if (is.na(s))
+  s2 <- s
+n <- 1
+for(j in combos){
+  if (j == "BBB")
+    combos[n] <- "BBC"
+  n <- n+1
+}
+titanic3[titanic3$pclass == 1 & titanic3$survived == 1, c(1,2,14)]
